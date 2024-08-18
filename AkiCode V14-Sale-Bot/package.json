@@ -1,0 +1,25 @@
+{
+  "name": "akicode-v14-sale-bot",
+  "version": "0.0.1",
+  "description": "AkiCode discordjs v14 sale bot",
+  "main": "akicode.js",
+  "scripts": {
+    "test": "node akicode.js"
+  },
+  "keywords": [
+    "Akira",
+    "AkiCode",
+    "Parsher",
+    "ParsherCode"
+  ],
+  "author": "Akira",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "@discordjs/rest": "^2.3.0",
+    "akicode-v14-sale-bot": "file:",
+    "better-sqlite3": "^11.1.2",
+    "discord.js": "^14.15.3",
+    "quick.db": "^9.1.7"
+  }
+}
